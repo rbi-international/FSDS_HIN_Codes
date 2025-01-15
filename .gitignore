@@ -135,6 +135,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+21st Dec FSDS/titanic.csv
 
 # Spyder project settings
 .spyderproject
